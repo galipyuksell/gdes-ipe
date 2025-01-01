@@ -1,187 +1,164 @@
 ---
 # Display name
-title: 吳健雄
+# Kullanıcının görüntülenen adı
+title: Ali Arı
 
 # Name pronunciation (optional)
+# Kullanıcının isminin telaffuzu (isteğe bağlı)
 name_pronunciation: Ali Arı
 
 # Full name (for SEO)
+# Tam isim (SEO için)
 first_name: Ali
 last_name: Arı
 
 # Status emoji
+# Kullanıcının profil durumu için emoji
 status:
-  icon: ☕️
+  icon: 📘
 
 # Is this the primary user of the site?
+# Bu siteyi kullanan birincil kullanıcı mı? (true/false)
 superuser: true
 
 # Highlight the author in author lists? (true/false)
+# Kullanıcının adını listelerde vurgula mı? (true/false)
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+# Kullanıcının rolü/pozisyonu/sloganı
+role: Professor of Economics
 
 # Organizations/Affiliations to display in Biography blox
+# Biyografi bölümünde gösterilecek organizasyonlar/bağlantılar
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Marmara University
+    url: https://www.marmara.edu.tr/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# Sosyal medya veya iletişim bağlantıları
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ali.ari@marmara.edu.tr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/ali-ari/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/ 
 
+# Kullanıcının ilgi alanları
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Financial Crises
+  - Energy and Trade
+  - Political Economy
+  - Turkish Economy
 
+# Eğitim geçmişi
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Economics
+    institution: Toulon University
+    date_start: 2003
+    date_end: 2009
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Focused on financial crises and political economy. Conducted advanced research in economics.
+  - area: MA in Economics
+    institution: Toulon University
+    date_start: 2002
+    date_end: 2003
     summary: |
-      GPA: 3.8/4.0
+      Specialized in trade and energy economics.
+  - area: BA in Politics
+    institution: Marmara University
+    date_start: 1998
+    date_end: 2002
+    summary: |
+      Comprehensive study in politics and public administration.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# İş deneyimleri
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Professor of Economics
+    company_name: Marmara University
+    company_url: https://www.marmara.edu.tr/
+    date_start: 2009-01-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Serving as the Director of French Program of Political Science and the Director of Research Centre on France-Turkey Relations. Conducting research in political economy and Turkish economy.
+  - position: Director of the Centre for European Studies
+    company_name: Kirklareli University
+    date_start: 2013-01-01
+    date_end: 2018-12-31
+    summary: |
+      Directed European Studies, focusing on EU-Turkey relations and trade policies.
+  - position: Visiting Scholar
+    company_name: Rice University
+    date_start: 2018-01-01
+    date_end: 2018-12-31
+    summary: |
+      Conducted advanced research in financial crises and political economy.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+# Kullanıcının becerileri
 skills:
-  - name: Technical Skills
+  - name: Research Skills
     items:
-      - name: Python
+      - name: Financial Crises Analysis
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+        percent: 90
+        icon: chart-line
+      - name: Political Economy
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 95
+        icon: globe
+      - name: Trade Policy Analysis
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 85
+        icon: currency-exchange
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Reading
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: book
+      - name: Traveling
         description: ''
-        percent: 80
-        icon: camera
+        percent: 90
+        icon: airplane
 
+# Kullanıcının bildiği diller
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: French
+    percent: 80
+  - name: Turkish
+    percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Kullanıcının aldığı ödüller
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Visiting Scholar
+    url: https://rice.edu/
+    date: '2018-01-01'
+    awarder: Rice University
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Conducted research on financial crises and energy economics.
+  - title: Jean Monnet Assessor
+    date: '2017-01-01'
+    awarder: European Union
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Evaluated scholarship applications for the Jean Monnet Scholarship Program.
+  - title: Project Researcher
+    date: '2016-01-01'
+    awarder: Ministry of Environment, Urbanism and Climate Change
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Worked on reducing greenhouse gas emissions in Turkey.
 ---
 
 ## About Me
 
-Ali Arı is a professor of Public Administration at the Marmara University.
+# Kullanıcı hakkında genel açıklama
+Ali Arı is a Professor of Economics in the Department of Political Science and Public Administration at Marmara University. Before joining Marmara University, Dr. Arı served as the Director of the Centre for European Studies and as the Chair of the Department of Economics at Kırklareli University. He was a visiting scholar at Rice University in 2018 and gave lectures as a visiting professor at institutions such as Taras Shevchenko National University of Kiev, University of Debrecen, Toulon University, and Yeditepe University. 
+
+Main research interests of Dr. Arı include financial crises, energy, trade, political economy, and the Turkish economy. He has served as an assessor for the Jean Monnet Scholarship Program and worked on a project financed by the Ministry of Environment, Urbanism and Climate Change focused on reducing greenhouse gas emissions in Turkey. Dr. Arı currently serves as the Director of the French Program of Political Science and the Director of the Research Centre on France-Turkey Relations.
+
+
+
 
