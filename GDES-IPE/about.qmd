@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-# About GDES-IPE
-
 The Jean Monnet Module Project titled "Global Dynamics of Energy Security: An IPE Perspective on Sustainable Supply Chains in Europe," referred to as GDES-IPE, aims to explore the intricate relationship between energy security, international political economy (IPE), and sustainable supply chains in the European context. The project's rationale is rooted in the evolving global energy landscape, where traditional power structures are shifting, and sustainable energy sources are becoming increasingly critical.
 
 As the world grapples with the challenges of climate change and seeks to transition towards more sustainable energy practices, understanding the IPE dynamics governing energy security is paramount. GDES-IPE addresses the gap in existing literature by delving into the complexities of sustainable energy supply chains within the broader context of IPE. The project recognizes the transition from conventional energy paradigms to sustainable alternatives and acknowledges the importance of comprehensive education and analysis in navigating this transformative period.
