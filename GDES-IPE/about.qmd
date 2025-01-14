@@ -11,9 +11,3 @@ As the world grapples with the challenges of climate change and seeks to transit
 The primary objectives of GDES-IPE are threefold: i) to provide a comprehensive teaching programme on the interplay between energy security, IPE, and sustainable supply chains in Europe, ii) to conduct comparative studies on inter-regional and trans-regional relations within the energy sector, and iii) to disseminate this knowledge to a diverse audience, including graduate and undergraduate students, academic and teaching personnel, policymakers, as well as external entities such as universities and think tanks.
 
 The target audience for GDES-IPE encompasses students at various academic levels, academic and teaching staff in higher education institutions, and policymakers involved in shaping energy policies. Beyond academia, GDES-IPE aims to actively engage with a broader society by extending its outreach to entities interested in sustainable energy practices. Through this module project, GDES-IPE seeks to bridge the gap between theory and practice, fostering a deeper understanding of the complex dynamics surrounding global energy security and sustainable supply chains. 
-
-It aims to achieve the following:
-
--   Disseminate cutting-edge research.
--   Create educational opportunities.
--   Foster partnerships within and beyond Europe.
