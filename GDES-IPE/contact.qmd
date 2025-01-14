@@ -6,3 +6,5 @@ title: "Contact"
 Feel free to reach out via the following methods.
 
 - e-posta: ali.ari@marmara.edu.tr
+
+- phone : +90 216 777 1906
