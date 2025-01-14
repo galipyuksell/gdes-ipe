@@ -1,0 +1,15 @@
+---
+title: "web-site"
+---
+
+# Welcome to Web-Site
+
+This project, supported by European funding, is dedicated to dissemination and collaboration across multiple domains.
+
+![](images/clipboard-2104634892.png)
+
+## Key Objectives
+
+-   Promote innovative research.
+-   Facilitate impactful teaching activities.
+-   Share deliverables for broader engagement.

@@ -1,0 +1,27 @@
+project:
+  type: website
+website:
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Team
+        href: team.qmd
+      - text: Activities
+        href: activities.qmd
+      - text: Deliverables
+        href: deliverables.qmd
+      - text: Contact
+        href: contact.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+      - icon: github
+        menu:
+        href: https://github.com
+format:
+  html:
+    theme: cosmo
+    css: styles.css

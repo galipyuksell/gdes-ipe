@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+# About Web-Site
+
+The Web-Site project focuses on fostering collaboration and sharing resources across Europe. It aims to achieve the following:
+
+-   Disseminate cutting-edge research.
+-   Create educational opportunities.
+-   Foster partnerships within and beyond Europe.

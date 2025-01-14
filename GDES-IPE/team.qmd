@@ -1,0 +1,11 @@
+---
+title: "team"
+---
+
+# Meet the Team
+
+Our project is led by a diverse team of experts from various fields:
+
+-   Dr. Alice Smith
+-   Prof. John Doe
+-   Ms. Clara Brown
