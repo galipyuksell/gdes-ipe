@@ -5,3 +5,5 @@ title: "Contact"
 # Contact
 
 Feel free to reach out via the following methods.
+
+- e-posta: ali.ari@marmara.edu.tr
