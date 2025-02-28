@@ -8,4 +8,4 @@ editor: visual
 
 Slide 1
 
-![](/gdes-ipe/GDES-IPE/images/26.02.2025.png)
+![](/gdes-ipe/GDES-IPE/images/26.02.2025.jpg)
