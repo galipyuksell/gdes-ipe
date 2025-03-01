@@ -9,3 +9,5 @@ title: "Activities"
 | 25.02.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Kick-off Meeting | Project Team  | \-                                            |
 | 05.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 1        | Prof. Ali Arı | [Course Info](Lecture/Lecture1.html#/section) |
 | 06.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 1        | Prof. Ali Arı | [Course Info](Lecture/Seminar1.html#/section) |
+| 12.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 2        | Prof. Ali Arı | [Course Info](Lecture/Lecture2.html#/section) |
+| 13.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 2        | Prof. Ali Arı | Course Info                                   |
