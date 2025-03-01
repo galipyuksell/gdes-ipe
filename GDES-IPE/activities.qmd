@@ -4,10 +4,10 @@ title: "Activities"
 
 # Recent Activities From GDES-IPE
 
-| Date       | Location                                           | Topics           | Lecturer      | 🧑‍🤝‍🧑Attendee \| 🔗Link \| Lecturer \|           |
+| Date       | Location                                           | Topics           | Lecturer      | 🧑‍🤝‍🧑Attendee \| 🔗Link \| Lecturer \|               |
 |---------------|---------------|--------------|---------------|---------------|
-| 25.02.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Kick-off Meeting | Project Team  | \-                                            |
-| 05.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 1        | Prof. Ali Arı | [Course Info](Lecture/Lecture1.html#/section) |
-| 06.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 1        | Prof. Ali Arı | [Course Info](Lecture/Seminar1.html#/section) |
-| 12.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 2        | Prof. Ali Arı | [Course Info](Lecture/Lecture2.html#/section) |
-| 13.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 2        | Prof. Ali Arı | [Course Info](Seminar2.html#/title-slide)     |
+| 25.02.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Kick-off Meeting | Project Team  | \-                                                |
+| 05.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 1        | Prof. Ali Arı | [Course Info](Lecture/Lecture1.html#/section)     |
+| 06.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 1        | Prof. Ali Arı | [Course Info](Lecture/Seminar1.html#/section)     |
+| 12.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 2        | Prof. Ali Arı | [Course Info](Lecture/Lecture2.html#/section)     |
+| 13.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 2        | Prof. Ali Arı | [Course Info](Lecture/Seminar2.html#/title-slide) |
