@@ -10,4 +10,4 @@ title: "Activities"
 | 05.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 1        | Prof. Ali Arı | [Course Info](Lecture/Lecture1.html#/section) |
 | 06.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 1        | Prof. Ali Arı | [Course Info](Lecture/Seminar1.html#/section) |
 | 12.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 2        | Prof. Ali Arı | [Course Info](Lecture/Lecture2.html#/section) |
-| 13.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 2        | Prof. Ali Arı | Course Info                                   |
+| 13.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 2        | Prof. Ali Arı | [Course Info](Seminar2.html#/title-slide)     |

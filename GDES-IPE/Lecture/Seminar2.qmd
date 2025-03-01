@@ -1,0 +1,9 @@
+---
+title: "Global Dynamics of Energy Security: An IPE Perspective on Sustainable Supply Chains in Europe"
+subtitle: "Energy Security, Sustainability, and IPE (II)"
+date: 03.13.2025
+format: revealjs
+editor: visual
+---
+
+# ![](images/13.03.2025.png)
