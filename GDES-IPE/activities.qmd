@@ -17,3 +17,5 @@ title: "Activities"
 | 26.03.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 5 | Assoc. Prof. Hakan Mehmetcik | [Course Info](Lecture/Seminar5.html#/title-slide) |
 | 08.04.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 6 | Prof. Ali Arı | [Course Info](Lecture/Lecture6.html#/title-slide) |
 | 09.04.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 6 | Prof. Ali Arı | [Course Info](Lecture/Seminar6.html#/title-slide) |
+| 22.04.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 7 | Prof. Ali Arı | [Course Info](Lecture/Lecture7.html#/title-slide) |
+| 23.04.2025 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Seminar 7 | Prof. Ali Arı | [Course Info](Lecture/Seminar7.html#/title-slide) |
