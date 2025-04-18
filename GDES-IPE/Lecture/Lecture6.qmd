@@ -1,0 +1,11 @@
+---
+title: "Global Dynamics of Energy Security: An IPE Perspective on Sustainable Supply Chains in Europe"
+subtitle: "European Energy Landscape: Actors and Institutions"
+date: 04.08.2025
+format: revealjs
+editor: visual
+---
+
+# 
+
+![](images/Lecture 6.png)
